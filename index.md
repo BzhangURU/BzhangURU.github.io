@@ -6,7 +6,7 @@ layout: default
 
 <!-- Profile photo here -->
 <p>
-  <img src="./personal_photo2_small_size2.png" alt="Personal_photo" style="width: 300px; height: auto;" />
+  <img src="./personal_photo2_small_size2.png" alt="Personal_photo" style="width: 450px; height: auto;" />
 </p>
 
 
@@ -90,7 +90,7 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 <p style="margin-top: 0.0em; margin-bottom: 0.2em;">Hamid Manoochehri*, <strong>Bodong Zhang</strong>*, Beatrice Knudsen, Tolga Tasdizen</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">In submission</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
-    <a href="https://arxiv.org/abs/2410.17514" style="color: #007bff; text-decoration: none;">paper</a>&nbsp&nbsp&nbsp&nbsp&nbsp
+    <a href="https://arxiv.org/abs/2410.17514" style="color: #007bff; text-decoration: none;">paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/hamidmanoochehri/Paper_PathMoCo" style="color: #007bff; text-decoration: none;">code</a>
 </p>
 
@@ -105,7 +105,7 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 <p style="margin-top: 0.0em; margin-bottom: 0.2em;"><strong>Bodong Zhang</strong>, Hamid Manoochehri, Man Minh Ho, Fahimeh Fooladgar, Yosep Chong, Beatrice Knudsen, Deepika Sirohi, Tolga Tasdizen</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">Submitted to the Journal of Medical Image Analysis, in major revision process</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
-    <a href="https://arxiv.org/abs/2312.06978" style="color: #007bff; text-decoration: none;">paper</a>&nbsp&nbsp&nbsp&nbsp&nbsp  
+    <a href="https://arxiv.org/abs/2312.06978" style="color: #007bff; text-decoration: none;">paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
     <a href="https://github.com/BzhangURU/Paper_CLASS-M/tree/main" style="color: #007bff; text-decoration: none;">code</a>
 </p>
 
@@ -120,7 +120,7 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 <p style="margin-top: 0.0em; margin-bottom: 0.2em;"><strong>Bodong Zhang</strong>, Beatrice Knudsen, Deepika Sirohi, Alessandro Ferrero, Tolga Tasdizen</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">MICCAI 2022 Workshop on Medical Image Learning with Limited and Noisy Data</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
-    <a href="https://arxiv.org/abs/2206.12505" style="color: #007bff; text-decoration: none;">paper</a>&nbsp&nbsp&nbsp&nbsp&nbsp  
+    <a href="https://arxiv.org/abs/2206.12505" style="color: #007bff; text-decoration: none;">paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
     <a href="https://github.com/BzhangURU/Paper_2022_Co-training" style="color: #007bff; text-decoration: none;">code</a>
 </p>
 
@@ -139,8 +139,8 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 ### Estimation Theory, spring 2016: Object Tracking Using Kalman Filter
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">Object tracking with challenges of occlusion and alteration in size of the object. </p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
-    <a href="https://github.com/BzhangURU/Object-Tracking-in-Videos/blob/master/Bodong%2CSayali%2CSoroosh%20-%20ECE%206540%20(Estimation%20Theory)%20%20Project%20Report.pdf" style="color: #007bff; text-decoration: none;">PDF_report</a>  &nbsp&nbsp&nbsp&nbsp&nbsp  
-    <a href="https://github.com/BzhangURU/Object-Tracking-in-Videos/blob/master/Poster_Bodong_Sayali_Soroosh.pdf" style="color: #007bff; text-decoration: none;">Poster</a>     &nbsp&nbsp&nbsp&nbsp&nbsp  
+    <a href="https://github.com/BzhangURU/Object-Tracking-in-Videos/blob/master/Bodong%2CSayali%2CSoroosh%20-%20ECE%206540%20(Estimation%20Theory)%20%20Project%20Report.pdf" style="color: #007bff; text-decoration: none;">PDF_report</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <a href="https://github.com/BzhangURU/Object-Tracking-in-Videos/blob/master/Poster_Bodong_Sayali_Soroosh.pdf" style="color: #007bff; text-decoration: none;">Poster</a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
     <a href="https://github.com/BzhangURU/Object-Tracking-in-Videos/tree/master/video%20demonstration" style="color: #007bff; text-decoration: none;">Video_demonstration</a>   
 </p>
 
@@ -152,8 +152,8 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 ### 3D Computer Vision, spring 2015: Estimation of Single Camera Location
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">Propose my own method to estimate camera location by taking a photo of special landmark in any direction and location. </p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
-    <a href="https://github.com/BzhangURU/3D-Computer-Vision-Project/blob/master/Final_Project/Final_Project_Report_Bodong_Zhang.pdf" style="color: #007bff; text-decoration: none;">PDF_report</a>  &nbsp&nbsp&nbsp&nbsp&nbsp  
-    <a href="https://github.com/BzhangURU/3D-Computer-Vision-Project/blob/master/Final_Project/Presentation_Final_project_Bodong%20Zhang.pdf" style="color: #007bff; text-decoration: none;">Presentation_slides</a>     &nbsp&nbsp&nbsp&nbsp&nbsp  
+    <a href="https://github.com/BzhangURU/3D-Computer-Vision-Project/blob/master/Final_Project/Final_Project_Report_Bodong_Zhang.pdf" style="color: #007bff; text-decoration: none;">PDF_report</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <a href="https://github.com/BzhangURU/3D-Computer-Vision-Project/blob/master/Final_Project/Presentation_Final_project_Bodong%20Zhang.pdf" style="color: #007bff; text-decoration: none;">Presentation_slides</a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
     <a href="https://github.com/BzhangURU/3D-Computer-Vision-Project/tree/master/Final_Project" style="color: #007bff; text-decoration: none;">Matlab_code</a>   
 </p>
 
@@ -176,5 +176,7 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 <br>
 <!-- <p style="text-align: center;"> -->
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Kou1kZcfGuY-wXEaakiM1kur8kVVcbiiGUyDKQdAAuQ&cl=ffffff&w=a"></script>
+<div style="width: 200px; height: auto; overflow: hidden;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Kou1kZcfGuY-wXEaakiM1kur8kVVcbiiGUyDKQdAAuQ&cl=ffffff&w=a"></script>
+</div>
 
