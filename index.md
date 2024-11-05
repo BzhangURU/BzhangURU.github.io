@@ -71,7 +71,7 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 ### Research Assistant, Rensselaer Polytechnic Institute, Troy, NY, USA
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">Aug 2014 – Dec 2014  </p>
 
-1.  Wrote code for facial feature detection in videos using Supervised Descent Method and tested accuracy.
+1.  Wrote code for facial feature detection in videos and tested accuracy.
 2.  Implemented codes for eye detection, thermal feature detection, blink detection and pose estimation.
 
 ### Student Researcher, Image Processing Lab, University of Science and Technology of China, Hefei, Anhui Province, China
