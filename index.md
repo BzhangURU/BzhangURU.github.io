@@ -127,6 +127,11 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 <br>
 
 # Projects
+### Deep Learning, fall 2021: Multimodal Variational Autoencoder (VAE) Paper Study
+<p style="margin-top: 0.2em; margin-bottom: 0.2em;">Study paper "Generalized zero-and few-shot learning via aligned variational autoencoders" that proposed new variational autoencoders that takes inputs with multi-modalities to perform zero-shot learning. Performed extended experiments to study the influence of cross-alignment loss and distribution-alignment loss on classification accuracy. Presentation slides can be found
+    <a href="./Bodong_DL_Presentation_Dec_8_2021.pdf" style="color: #007bff; text-decoration: none;">here</a>
+</p>
+
 ### Machine Learning, fall 2016: Box Office Prediction & IMDB Rating Analysis
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">Use a combination of machine learning algorithms to predict box office and IMDB rating of movies. </p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
