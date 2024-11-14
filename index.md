@@ -91,7 +91,8 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">In submission</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
     <a href="https://arxiv.org/abs/2410.17514" style="color: #007bff; text-decoration: none;">paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/hamidmanoochehri/Paper_PathMoCo" style="color: #007bff; text-decoration: none;">code</a>
+    <a href="https://github.com/hamidmanoochehri/Paper_PathMoCo" style="color: #007bff; text-decoration: none;">code</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="./Bodong_paper3_SRA_presentation_slides.pdf" style="color: #007bff; text-decoration: none;">presentation</a>
 </p>
 
 ### DuoFormer: Leveraging Hierarchical Visual Representations by Local and Global Attention
@@ -106,7 +107,8 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">Submitted to the Journal of Medical Image Analysis, in major revision process</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
     <a href="https://arxiv.org/abs/2312.06978" style="color: #007bff; text-decoration: none;">paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-    <a href="https://github.com/BzhangURU/Paper_CLASS-M/tree/main" style="color: #007bff; text-decoration: none;">code</a>
+    <a href="https://github.com/BzhangURU/Paper_CLASS-M/tree/main" style="color: #007bff; text-decoration: none;">code</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="./Bodong_paper2_CLASS_M_Poster_20241113.pdf" style="color: #007bff; text-decoration: none;">poster</a>
 </p>
 
 ### MP41-13 Quantitative Assessment of Mesenchymal Differentiation for Metastatic Risk Prediction of Clear Cell Renal Carcinoma (ccRCC)
@@ -121,7 +123,9 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">MICCAI 2022 Workshop on Medical Image Learning with Limited and Noisy Data</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
     <a href="https://arxiv.org/abs/2206.12505" style="color: #007bff; text-decoration: none;">paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-    <a href="https://github.com/BzhangURU/Paper_2022_Co-training" style="color: #007bff; text-decoration: none;">code</a>
+    <a href="https://github.com/BzhangURU/Paper_2022_Co-training" style="color: #007bff; text-decoration: none;">code</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="./Bodong_paper1_Stain_Based_Contrastive_Co-training_presentation_slides.pdf" style="color: #007bff; text-decoration: none;">presentation</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="./Bodong_paper1_Stain_Based_Contrastive_Co-training_poster.pdf" style="color: #007bff; text-decoration: none;">poster</a>
 </p>
 
 <br>
