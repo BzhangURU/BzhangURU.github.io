@@ -86,6 +86,13 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">*: equal contributions</p>
 
+### WeakSupCon: Weakly Supervised Contrastive Learning for Encoder Pre-training
+<p style="margin-top: 0.0em; margin-bottom: 0.2em;"><strong>Bodong Zhang</strong>, Hamid Manoochehri, Beatrice Knudsen, Tolga Tasdizen</p>
+<p style="margin-top: 0.2em; margin-bottom: 0.2em;">In submission</p>
+<p style="margin-top: 0.2em; margin-bottom: 0.2em;">
+    <a href="https://arxiv.org/abs/2503.04165" style="color: #007bff; text-decoration: none;">paper</a>
+</p>
+
 ### SRA: A Novel Method to Improve Feature Embedding in Self-supervised Learning for Histopathological Images
 <p style="margin-top: 0.0em; margin-bottom: 0.2em;">Hamid Manoochehri*, <strong>Bodong Zhang</strong>*, Beatrice Knudsen, Tolga Tasdizen</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">In submission</p>
