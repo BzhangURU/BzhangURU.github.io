@@ -91,7 +91,7 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 workshop on Efficient Medical AI</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
     <a href="https://arxiv.org/abs/2503.04165" style="color: #007bff; text-decoration: none;">paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/BzhangURU/Paper_WeakSupCon" style="color: #007bff; text-decoration: none;">code
+    <a href="https://github.com/BzhangURU/Paper_WeakSupCon" style="color: #007bff; text-decoration: none;">code</a>
 </p>
 
 ### SRA: A Novel Method to Improve Feature Embedding in Self-supervised Learning for Histopathological Images
