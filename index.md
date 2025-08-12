@@ -87,7 +87,7 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">*: equal contributions</p>
 
 ### WeakSupCon: Weakly Supervised Contrastive Learning for Encoder Pre-training
-<p style="margin-top: 0.0em; margin-bottom: 0.2em;"><strong>Bodong Zhang</strong>, Hamid Manoochehri, Xiwen Li, Beatrice Knudsen, Tolga Tasdizen</p>
+<p style="margin-top: 0.0em; margin-bottom: 0.2em;"><strong>Bodong Zhang</strong>, Hamid Manoochehri, Xiwen Li, Beatrice S. Knudsen, Tolga Tasdizen</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 workshop on Efficient Medical AI</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
     <a href="https://arxiv.org/abs/2503.04165" style="color: #007bff; text-decoration: none;">paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -95,7 +95,7 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 </p>
 
 ### SRA: A Novel Method to Improve Feature Embedding in Self-supervised Learning for Histopathological Images
-<p style="margin-top: 0.0em; margin-bottom: 0.2em;">Hamid Manoochehri*, <strong>Bodong Zhang</strong>*, Beatrice Knudsen, Tolga Tasdizen</p>
+<p style="margin-top: 0.0em; margin-bottom: 0.2em;">Hamid Manoochehri*, <strong>Bodong Zhang</strong>*, Beatrice S. Knudsen, Tolga Tasdizen</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">Medical Imaging with Deep Learning (MIDL) 2025 - Short papers</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
     <a href="https://arxiv.org/abs/2410.17514" style="color: #007bff; text-decoration: none;">paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -104,14 +104,14 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 </p>
 
 ### DuoFormer: Leveraging Hierarchical Visual Representations by Local and Global Attention
-<p style="margin-top: 0.0em; margin-bottom: 0.2em;">Xiaoya Tang, <strong>Bodong Zhang</strong>, Beatrice S Knudsen, Tolga Tasdizen</p>
+<p style="margin-top: 0.0em; margin-bottom: 0.2em;">Xiaoya Tang, <strong>Bodong Zhang</strong>, Beatrice S. Knudsen, Tolga Tasdizen</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">Medical Imaging with Deep Learning (MIDL) 2025</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
     <a href="https://arxiv.org/abs/2407.13920" style="color: #007bff; text-decoration: none;">paper</a>
 </p>
 
 ### CLASS-M: Adaptive Stain Separation-based Contrastive Learning with Pseudo-Labeling for Histopathological Image Classification
-<p style="margin-top: 0.0em; margin-bottom: 0.2em;"><strong>Bodong Zhang</strong>, Hamid Manoochehri, Man Minh Ho, Fahimeh Fooladgar, Yosep Chong, Beatrice Knudsen, Deepika Sirohi, Tolga Tasdizen</p>
+<p style="margin-top: 0.0em; margin-bottom: 0.2em;"><strong>Bodong Zhang</strong>, Hamid Manoochehri, Man Minh Ho, Fahimeh Fooladgar, Yosep Chong, Beatrice S. Knudsen, Deepika Sirohi, Tolga Tasdizen</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">Medical Image Analysis journal, 103711</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
     <a href="https://www.sciencedirect.com/science/article/pii/S1361841525002580" style="color: #007bff; text-decoration: none;">paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
@@ -120,14 +120,14 @@ During my PhD, I mainly use Python, PyTorch, OpenCV in Linux OS as research tool
 </p>
 
 ### MP41-13 Quantitative Assessment of Mesenchymal Differentiation for Metastatic Risk Prediction of Clear Cell Renal Carcinoma (ccRCC)
-<p style="margin-top: 0.0em; margin-bottom: 0.2em;">Daniel Vilchez, <strong>Bodong Zhang</strong>, Alejandro Sanchez, Deepika Sirohi, Tolga Tasdizen, Beatrice Knudsen</p>
+<p style="margin-top: 0.0em; margin-bottom: 0.2em;">Daniel Vilchez, <strong>Bodong Zhang</strong>, Alejandro Sanchez, Deepika Sirohi, Tolga Tasdizen, Beatrice S. Knudsen</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">The Journal of Urology 209 (Supplement 4), e560</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
     <a href="https://www.auajournals.org/doi/10.1097/JU.0000000000003279.13" style="color: #007bff; text-decoration: none;">paper</a>
 </p>
 
 ### Stain Based Contrastive Co-training for Histopathological Image Analysis
-<p style="margin-top: 0.0em; margin-bottom: 0.2em;"><strong>Bodong Zhang</strong>, Beatrice Knudsen, Deepika Sirohi, Alessandro Ferrero, Tolga Tasdizen</p>
+<p style="margin-top: 0.0em; margin-bottom: 0.2em;"><strong>Bodong Zhang</strong>, Beatrice S. Knudsen, Deepika Sirohi, Alessandro Ferrero, Tolga Tasdizen</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">MICCAI 2022 Workshop on Medical Image Learning with Limited and Noisy Data</p>
 <p style="margin-top: 0.2em; margin-bottom: 0.2em;">
     <a href="https://arxiv.org/abs/2206.12505" style="color: #007bff; text-decoration: none;">paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
